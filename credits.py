@@ -1,0 +1,3 @@
+bot_token = "5659832575:AAFGvx33QY6t5IyXyckBXFhqo4qn4C4vXMc"
+bot_token_omauga = "6645216038:AAFv5zN5wfBPedRISDJ-HXdBorVdH2YWlmE"
+hi_my_frend_token="6753985027:AAH9rqVCvQTQ50IE186tjW9BI9MeRVYFNxY"
